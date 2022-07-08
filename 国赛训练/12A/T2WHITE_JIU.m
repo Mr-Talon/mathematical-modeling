@@ -1,0 +1,14 @@
+data3=xlsread('C:\Users\16046\Desktop\T2白酒酒.xlsx','B3:I30');
+data3=zscore(data3);
+r=corrcoef(data3);
+[x,y,z]=pcacov(r);
+f=repmat(sign(sum(x)),size(x,1),1);
+x=x.*f;
+num=4;
+df=data3*x(:,1:num);
+tf=df*z(1:num)/100;
+[stf,ind]=sort(tf,'descend');
+stf=stf';
+ind=ind';
+disp(stf);
+disp(ind);
