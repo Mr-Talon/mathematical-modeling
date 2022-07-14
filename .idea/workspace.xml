@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf86398d-8c60-41a7-bf0f-03c478a855c6" name="变更" comment="6 25">
-      <change afterPath="$PROJECT_DIR$/国赛训练/05B/T2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/国赛训练/05B/clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/国赛训练/05B/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf86398d-8c60-41a7-bf0f-03c478a855c6" name="变更" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
